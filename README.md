@@ -20,7 +20,8 @@ https://pokeapi.co/)
 4. Get a random Pokemon for the player and another for their opponent 
 5. Ask the user which stat they want to use (id, height or weight) 
 6. Compare the player's and opponent's Pokemon on the chosen stat to decide who wins 
-Ideas for Extending the Project 
+Ideas for Extending the Project
+
 Here are a few ideas for extending the project beyond the required tasks. These ideas are just 
 suggestions, feel free to come up with your own ideas and extend the program however you want. 
 ● Use different stats for the Pokemon from the API 
