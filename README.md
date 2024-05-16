@@ -24,6 +24,7 @@ Ideas for Extending the Project
 
 Here are a few ideas for extending the project beyond the required tasks. These ideas are just 
 suggestions, feel free to come up with your own ideas and extend the program however you want. 
+
 ● Use different stats for the Pokemon from the API 
 
 ● Get multiple random Pokemon and let the player decide which one that they want to use 
